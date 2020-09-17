@@ -1,6 +1,6 @@
 # Analyze A/B Test Results  
 
-For this project I analyzed the results of an A/B test run by an e-commerce website as a part of completing Introduction to Data Analysis course.  
+For this project I analyzed the results of an A/B test run by an e-commerce website as a part of completing Practical Statistics course.  
 
 __Installations:__   
 In this project Python 3.x and the following Python libraries were installed:  
